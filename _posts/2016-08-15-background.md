@@ -7,6 +7,8 @@ tags:
   - birthplace
   - family members
   - hometown
+  - hobbies
+  - ambition
 ---
 
 <img src="/images/baby.jpg" alt="Daniel Cabale" style="width: 50%; height: 50%;">
@@ -24,6 +26,16 @@ I was born in June 27 1990 in Tawau Hospital.
 
 ## Home Address
 Mile 4, Apas Road, 90000, Tawau, Sabah
+
+# Hobbies
+* Playing games (Tekken, CSGO, DOTA2, GTAV, etc)
+* Sports (Soccer, Badminton, Takraw, Basketball, Ping Pong)
+* Music (Guitar, Drum)
+* Watch animes
+* Watch movies
+
+## Ambition
+<b>I wanna be the very best. Like no one ever was. </br>
 
 That's all.
 
