@@ -1,25 +1,25 @@
 - title: Auditions
   url: http://dev.auditions.com
-  image: images/halve-home-image.png
+  image: images/auditions.png
   completed: true
 
 - title: Explore Talent
   url: http://exploretalent.com
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+  image: images/et.png
   completed: true
 
 - title: Casting Director
   url: http://devs.cd.exploretalent.com
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: images/cd.png
   completed: true
 
 - title: Cebu Modeling
   url: http://dev.cebumodeling.com
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  image: images/cm.png
   completed: true
 
 - title: Talent Resource Manager
   url: https://trm.exploretalent.com
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  image: images/trm.png
   completed: true
 
