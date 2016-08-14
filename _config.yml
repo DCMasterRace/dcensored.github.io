@@ -29,10 +29,10 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:              dcabale.dc@gmail.com
 #google.plus:        username
 #twitter:            username
-#facebook:           username
+facebook:           https://www.facebook.com/DCensored
 github:             dcensored
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
@@ -42,7 +42,7 @@ github:             dcensored
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              https://steamcommunity.com/id/dcabale
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
