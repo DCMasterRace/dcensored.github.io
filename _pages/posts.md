@@ -1,6 +1,6 @@
 ---
 layout: post-list
-title: Posts
-description: "List of posts"
+title: About Me
+description: "Where the truth lies"
 permalink: /posts.html
 ---
