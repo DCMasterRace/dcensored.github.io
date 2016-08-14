@@ -8,7 +8,7 @@ tags:
   - career
 ---
 
-<img src="/images/baby.jpg" alt="Daniel Cabale" width="50%" height="50%"></a>
+<img src="/images/baby.jpg" alt="Daniel Cabale" style="width: 50%; height: 50%;">
 
 <center><b>Halve</b> is a stylish, two-column jekyll theme.</center><br>
 
