@@ -15,7 +15,7 @@ tags:
 
 <center><b>Daniel Cabaluna Cabale</b></center><br>
 
-I was born in June 27 1990 in Tawau Hospital.
+I was born on June 27 1990 in Tawau Hospital.
 
 ## Family members
 * Efren E. Cabale (Father)
