@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Markup: Text Readability Test"
+title: "Testing"
 excerpt: "A bunch of text to test readability."
-tags: 
+tags:
   - sample post
   - readability
   - test
