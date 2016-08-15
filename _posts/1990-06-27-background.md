@@ -18,16 +18,20 @@ tags:
 I was born on June 27 1990 in Tawau Hospital.
 
 ## Family members
-* Efren E. Cabale (Father)
-* Dialenda C. Cabaluna (Mother)
-* Eldyjane C. Cabale (Sister)
-* Daryl C. Cabale (Brother)
-* Djayson C. Cabale/Mohd Amin (Brother)
+* <a href="facebook.com/efren.e.cabale">Efren E. Cabale (Father)</a>
+* <a href="facebook.com/daylenne.cabaluna">Dialenda C. Cabaluna (Mother)</a>
+* <a href="facebook.com/eldyjane.cabalunacabale">Eldyjane C. Cabale (Sister)</a>
+* <a href="facebook.com/iori.ost">Daryl C. Cabale (Brother)</a>
+* <a href="facebook.com/azman.c.young">Djayson C. Cabale/Mohd Amin (Brother)</a>
 
 <br>
 
-## Home Address
-Mile 4, Apas Road, 90000, Tawau, Sabah
+## Address
+### Home
+Mile 4, Apas Road, 90000, Tawau, Sabah (https://www.google.com.ph/maps/@4.2464371,117.936676,319m/data=!3m1!1e3)
+### Resident
+B5, Montesclaros Pension and Dormitory, Pelaez Ext. St., Cebu City
+
 
 <br>
 
