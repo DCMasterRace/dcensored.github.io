@@ -28,11 +28,13 @@ I was born on June 27 1990 in Tawau Hospital.
 
 ## Address
 * Home
+<br>
 Mile 4, Apas Road, 90000, Tawau, Sabah
 <br>
 (https://www.google.com.ph/maps/@4.2464371,117.936676,319m/data=!3m1!1e3)
 <br><br>
 * Resident
+<br>
 B5, Montesclaros Pension and Dormitory, Pelaez Ext. St., Cebu City
 
 
