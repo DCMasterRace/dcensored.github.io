@@ -23,3 +23,7 @@
   image: images/trm.png
   completed: true
 
+- title: CirclePix
+  url: https://circlepix.com
+  image: images/circlepix.png
+  completed: true

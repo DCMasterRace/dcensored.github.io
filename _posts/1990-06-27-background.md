@@ -11,7 +11,7 @@ tags:
   - ambition
 ---
 
-<img src="/images/baby.jpg" alt="Daniel Cabale" style="width: 50%; height: 50%;">
+<img src="/images/dan.jpg" alt="Daniel Cabale" style="width: 50%; height: 50%;">
 
 <center><b>Daniel Cabaluna Cabale</b></center><br>
 
@@ -35,13 +35,12 @@ Mile 4, Apas Road, 90000, Tawau, Sabah
 <br><br>
 * Resident
 <br>
-B5, Montesclaros Pension and Dormitory, Pelaez Ext. St., Cebu City
-
+640 Don Gil Garcia St., Capitol, Cebu City
 
 <br>
 
 ## Hobbies
-* Playing games (Tekken, CSGO, DOTA2, GTAV, etc)
+* Playing games (Tekken, PlayerUnknown Battleground, CSGO, DOTA2, GTAV, etc)
 * Sports (Soccer, Badminton, Takraw, Basketball, Ping Pong)
 * Music (Guitar, Drum)
 * Watch animes
